@@ -18,18 +18,23 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/Awaisxd"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/awaisxd_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://fb.com/Muhammad Awais"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://x.com/AwaisxD_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-awais-050aab310/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:awaisxd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/AwaisxD_">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-awais-050aab310/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,nodejs,express,mysql,mongodb,php,laravel,wordpress,git,github,vscode,figma,xd,linux,aws,npm,yarn,postman,docker,bash,netlify,vercel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,bootstrap,nodejs,express,mysql,wordpress,git,github,vscode,figma,linux,aws,npm,docker,bash,netlify,vercel&perline=8" />
 </p>
 
 ---
