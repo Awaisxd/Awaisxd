@@ -24,7 +24,7 @@
   <a href="https://x.com/AwaisxD_">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-awais-050aab310/">
+  <a href="https://www.linkedin.com/in/awaisxdofficial">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
