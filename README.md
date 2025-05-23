@@ -12,7 +12,7 @@
 - 🌱 Learning full-stack development (backend game strong 💪)
 - 💬 Ask me anything about <strong>frontend, UI/UX, or React</strong>
 - 📫 Reach me at: <strong>awaisxdofficial@gmail.com</strong>
-- ⚡ Fun fact: I’m Gen Z, but coding like a millennial 🧠
+- ⚡ Fun fact: Gen Z mindset, millennial work ethic 🧠✨ 
 
 ---
 
