@@ -3,8 +3,9 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Muhammad+Awais;Frontend+Dev+%F0%9F%9A%80+%7C+React+Enthusiast;Crafting+Modern+UIs+with+TailwindCSS;Learning+Backend+with+Node.js+%F0%9F%92%BB;Code.+Create.+Conquer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=9000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Muhammad+Awais;Frontend+Dev+%F0%9F%9A%80+%7C+React+Enthusiast;Crafting+Modern+UIs+with+TailwindCSS;Learning+Backend+with+Node.js+%F0%9F%92%BB;Code.+Create.+Conquer." alt="Typing SVG" />
 </h1>
+
 
 ### 🚀 About Me
 
